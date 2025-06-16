@@ -1,5 +1,5 @@
 import products from '@/data/women.json'
-import ProductCard from '@/components/ProductCard'
+import ProductCard from '../../components/ProductCard';
 
 export default function WomenPage() {
   return (

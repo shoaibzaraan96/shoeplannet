@@ -1,5 +1,6 @@
 import products from '@/data/kid.json'
-import ProductCard from '@/components/ProductCard'
+import ProductCard from '../../components/ProductCard';
+
 
 export default function KidsPage() {
   return (
