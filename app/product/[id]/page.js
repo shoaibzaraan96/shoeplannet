@@ -8,7 +8,7 @@ import { use } from 'react'
 import menProducts from '@/data/men.json'
 import womenProducts from '@/data/women.json'
 import kidProducts from '@/data/kid.json'
-import Navbar from '@/Components/Navbar'
+import Navbar from '@/components/Navbar'
 
 // Combine all products into one array
 const allProducts = [...menProducts, ...womenProducts, ...kidProducts]
