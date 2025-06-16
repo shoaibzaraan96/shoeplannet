@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "/images/women1.webp",
+    "title": "Leather flat shoe",
+    "description": "soft and comfortzone",
+    "price": 49.99
+  },
+  {
+    "id": 2,
+    "image": "/images/women2.webp",
+    "title": "Leather sneaker",
+    "description": "this is pure quality product",
+    "price": 59.99
+  },
+  {
+    "id": 3,
+    "image": "/images/women3.webp",
+    "title": "Soft jogar shoe",
+    "description": "best for running",
+    "price": 39.99
+  },
+  {
+    "id": 4,
+    "image": "/images/women4.webp",
+    "title": "Gladiator flat women",
+    "description": "soft and comfortzone",
+    "price": 29.99
+  }
+]

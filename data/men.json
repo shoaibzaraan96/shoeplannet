@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "/images/men1.webp",
+    "title": "Leather Pums",
+    "description": "Smile with confidence",
+    "price": 49.99
+  },
+  {
+    "id": 2,
+    "image": "/images/men2.webp",
+    "title": "Mens Loafer",
+    "description": "Increase your personality",
+    "price": 59.99
+  },
+  {
+    "id": 3,
+    "image": "/images/men3.webp",
+    "title": "Leather tessal loafer",
+    "description": "Goto office with personality",
+    "price": 39.99
+  },
+  {
+    "id": 4,
+    "image": "/images/men4.webp",
+    "title": "Rustic Leather loafar",
+    "description": "If u have a car you should buy it ",
+    "price": 29.99
+  }
+]
